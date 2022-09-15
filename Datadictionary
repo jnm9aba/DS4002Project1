@@ -1,5 +1,5 @@
+
 | Variable | Description |
-| --- | --- |
 | Title | Title of the subreddit post |
 | ID | Reddit’s internal unique ID for each post |
 | Number of Upvotes | Number of upvotes that the post received |
