@@ -17,7 +17,7 @@
 | Subreddit | Title of the subreddit that the post came from |
 
 ### Link to Data
-[Our Data] (https://github.com/jnm9aba/DS4002Project1/DATA)
+[Our Data](https://github.com/jnm9aba/DS4002Project1/DATA)
 
 
 
