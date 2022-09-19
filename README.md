@@ -1,11 +1,7 @@
-## Hypothesis
-Within five highly populated political subreddits, the majority of the popular posts are controversial.
-
-## Data Collection Process
+## SRC
 
 
-### Data File
-https://github.com/jnm9aba/DS4002Project1/DATA
+## DATA
 
 ### Data Dictionary
 | Variable | Description |
@@ -20,4 +16,9 @@ https://github.com/jnm9aba/DS4002Project1/DATA
 | Controversy Rating | Ratio of the upvote to comment ratio to the percent upvoted |
 | Subreddit | Title of the subreddit that the post came from |
 
-### Data Collection Narrative
+### Link to Data
+https://github.com/jnm9aba/DS4002Project1/DATA
+
+
+
+## REFERENCES
