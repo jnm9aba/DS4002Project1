@@ -2,8 +2,16 @@
 
 ### Installing/Building Code
 
+The code is in the Jupyter Notebook (.ipynb file format). It can be run locally using software such as Jupyter Labs or VSCode, or in the cloud using a service such as 
+Google Colab.
+
 ### Usage of Code
 
+The code requires the following Python libraries: pandas, requests, and vaderSentiment. These libraries must be installed locally for the code to run. This can be done
+in Jupyter Notebook with the following command: !pip install [package_name]. To connect to the Reddit API certain credentials are required which are provided in the 
+Jupyter Notebook file. The best practice would be to require a seperate config file for security, however we believe given the scope of this project providing the
+credentials directly in the file is appropriate. The file will prompt the user for which subreddit they want to access and what types of posts they want to see. There
+are options to download the data as a csv, to download the corresponding comments as a text file, and to print the results of the sentiment analysis.
 
 ## DATA
 
