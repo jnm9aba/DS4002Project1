@@ -29,7 +29,7 @@ are options to download the data as a csv, to download the corresponding comment
 | Subreddit | Title of the subreddit that the post came from |
 
 ### Link to Data
-[Our Data](https://github.com/jnm9aba/DS4002Project1/DATA)
+[Our Data](https://github.com/jnm9aba/DS4002Project1/tree/main/DATA)
 
 ### Notes
 The controversy rating was a rating we came up with on our own that we believe will tell whether or not a post was controversial.
