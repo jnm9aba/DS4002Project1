@@ -49,13 +49,19 @@ The controversy rating was a rating we came up with on our own that we believe w
 
 ## REFERENCES
 [1] I. Ivanova, “On Twitter, bad news spreads faster than good,” CBS News, 15-Jul-2021. [Online]. Available: https://www.cbsnews.com/news/twitter-bad-news-spreads-study/. [Accessed: 07-Sep-2022].
+
 [2] J. Keeley, “The top 10 highest-rated reddit posts of All time,” MUO, 08-Nov-2021. [Online]. Available: https://www.makeuseof.com/tag/10-top-rated-reddit-posts-time/. [Accessed: 07-Sep-2022].
+
 [3] “R/theoryofreddit - the 200 most active subreddits, categorized by content,” reddit. [Online]. Available: https://www.reddit.com/r/TheoryOfReddit/comments/1f7hqc/the_200_most_active_subreddits_categorized_by/. [Accessed: 14-Sep-2022].  
+
 [4] “R/help - how is the percentage upvoted on the original post calculated, not the replies for the main post?,” reddit. [Online]. Available: https://www.reddit.com/r/help/comments/hz5n4c/how_is_the_percentage_upvoted_on_the_original/. [Accessed: 14-Sep-2022]. 
+
 ### Acknowledgements
 We would like to acknowledge Professor Alonsi and Harsh for helping us throughout our project.
+
 ### MI1 Assignment
 [Milestone 1](https://docs.google.com/document/d/1_9VuEV5jnkA3g263__p-ZIY3Z7F7dS8qcF2a_IcWDRI/edit?usp=sharing)
+
 ### MI2 Assignment
 [Milestone 2](https://docs.google.com/document/d/1ZprHGB9gfskv4LiUauzqac8v8GBv4s8Hgy-vTTQr54c/edit?usp=sharing)
 
