@@ -1,5 +1,9 @@
 ## SRC
 
+### Installing/Building Code
+
+### Usage of Code
+
 
 ## DATA
 
@@ -19,6 +23,27 @@
 ### Link to Data
 [Our Data](https://github.com/jnm9aba/DS4002Project1/DATA)
 
+### Notes
 
+## FIGURES
+| Figure | Takeaways |
+| -------- | ----------- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## REFERENCES
+
+### Acknowledgements
+
+### MI1 Assignment
+[Milestone 1](https://docs.google.com/document/d/1_9VuEV5jnkA3g263__p-ZIY3Z7F7dS8qcF2a_IcWDRI/edit?usp=sharing)
+### MI2 Assignment
+[Milestone 2](https://docs.google.com/document/d/1ZprHGB9gfskv4LiUauzqac8v8GBv4s8Hgy-vTTQr54c/edit?usp=sharing)
+
