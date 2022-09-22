@@ -37,15 +37,11 @@ The controversy rating was a rating we came up with on our own that we believe w
 ## FIGURES
 | Figure | Takeaways |
 | -------- | ----------- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Scatterplot of Controversy Rating vs Number of Upvotes | These two variables don't have much of a relationship. It is slightly negative with a few outliers |
+| Scatterplot of Interaction vs Controversy Rating | These two variables also don't have much of a relationship. It is slightly negative. |
+| Scatterplot of Controversy Rating vs Interaction Without Outliers | There is a stronger negative relationship between these variables without the outliers. |
+
+
 
 ## REFERENCES
 [1] I. Ivanova, “On Twitter, bad news spreads faster than good,” CBS News, 15-Jul-2021. [Online]. Available: https://www.cbsnews.com/news/twitter-bad-news-spreads-study/. [Accessed: 07-Sep-2022].
