@@ -1,0 +1,4 @@
+Figure 1 is a scatterplot of controversy rating vs number of upvotes.
+Figure 2 is a scatterplot of controversy rating vs number of interactions. 
+-- Interactions is Number of Upvotes/Percent Upvotes
+Figure 3 is a scatterplot of controversy rating vs number of interactions, without outliers
