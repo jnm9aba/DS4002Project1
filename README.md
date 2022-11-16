@@ -53,7 +53,7 @@ The controversy rating was a rating we came up with on our own that we believe w
 [4] “R/help - how is the percentage upvoted on the original post calculated, not the replies for the main post?,” reddit. [Online]. Available: https://www.reddit.com/r/help/comments/hz5n4c/how_is_the_percentage_upvoted_on_the_original/. [Accessed: 14-Sep-2022]. 
 
 ### Acknowledgements
-We would like to acknowledge Professor Alonsi and Harsh for helping us throughout our project. The following Towards Data Science article also helped us implement
+We would like to acknowledge Professor Alonzi and Harsh for helping us throughout our project. The following Towards Data Science article also helped us implement
 the VADER sentiment analysis library: [Article](https://towardsdatascience.com/the-most-favorable-pre-trained-sentiment-classifiers-in-python-9107c06442c6)
 
 ### MI1 Assignment
